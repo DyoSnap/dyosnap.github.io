@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Acquire-By-Hash: yes
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 28 Nov 2026 09:12:40 +0000
+Label: DyoSnap
+Origin: DyoSnap
+Suite: stable
+MD5Sum:
+ 1db18bc8f975d1d629c3d66738aa1828              165 Release
+ 00e63edb54863b9e937ca544b89825d3             2631 main/binary-amd64/Packages
+ 05449c1a9ddd5bfe4e4187db60a1316c             1005 main/binary-amd64/Packages.gz
+ 87c9933cad8be620d6de41a90cd90a6a             2631 main/binary-arm64/Packages
+ 94aa52cc14a43a756d5547313db73bb8              998 main/binary-arm64/Packages.gz
+SHA1:
+ 575abda0f41ee68096a399f6e933104d41c7e22e              165 Release
+ 44847cdd3c4c04f546896cb836f475dbbbec67c3             2631 main/binary-amd64/Packages
+ ac79a61e8581a588c163d19df345dddff6b40572             1005 main/binary-amd64/Packages.gz
+ d50f6184adf2cbe447d3234d2715661ec35b0b29             2631 main/binary-arm64/Packages
+ 455a04f79347ea270c9fe6d90698d0f9a35d4a6a              998 main/binary-arm64/Packages.gz
+SHA256:
+ 2ce5a943023f72b31e28458e225227d40fba10a8419807df8985f55505b487ca              165 Release
+ 787b5198ca0abdafd9014946789d0a8e5ef05ef08bc23fcfc0f12e165f10bc4b             2631 main/binary-amd64/Packages
+ 9e2700483c2c8b49ebafbcc31582164b8ab712a470a98278f19ceec5d5c903a8             1005 main/binary-amd64/Packages.gz
+ 30a7fe3becfa5f100e9ea2f91cc694d33b955fed4aecd2df8e6032e36972c2ea             2631 main/binary-arm64/Packages
+ 03b98517f400864f24fb136a35aa9a7080f064df6cf71a1ee1e94589ebeaa47f              998 main/binary-arm64/Packages.gz
+SHA512:
+ dba1ccf3f43fb2361c32436d3986ed558836080f04e6f0e9f4a60abfbed56a7ddef15e825d2898ee18accba0f61814625b7c73af3c7396dfd6b0133107149e26              165 Release
+ 27b5c14a89b83447ce497371eae6262006950cff0febce9e97ccca5f1ca64f5eb0ebf069090b451ca7294fae0287522e125208c3dcc0fa903ee97d1a3f4ee8a5             2631 main/binary-amd64/Packages
+ cd332e1abfb5d245f526d436da62386e15275ade48aaf442a1cba4939b2c250078d360725b230628fbe17352a01d0f3c9cb5cbb6daeac81c0a85d13b08484671             1005 main/binary-amd64/Packages.gz
+ 14ab9b517974cd3b57c73414a764661548f6e7843f2c833eafb3c0878906808eba975b184789221afe1c5c2aa898e5792ea0b1ebd60795db42875eaf5025f47a             2631 main/binary-arm64/Packages
+ 43b194849fefb9803deb6afbc3b4c60846b786a14574e34104badd42bf35355a3d44354572f8199fea74c637dd4f65eca18ee9d1c63cde267a3ee51b75b56277              998 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEaarqDNXc9OkRFdIf46i2ApMmxx0FAmsKmwgACgkQ46i2ApMm
+xx3y8w//XEHN/QV/llQwnzCmpvX1CrHg2XdFdFziwx5fsb+M5FbN/C4D0L3oP++c
+8M5GRtcQH5plpe0QMoVPqIF5vDo7QxpZ1TCHEk90Ld3qxPNCeOL86m35KWLDgRUr
+J4srTgp746/K/RsKaa+anityfP6u96gii9sq2U8fZSbUJjMGT1l2ziVvWwt79xuj
+eWbmRMlbteWpFe5BBw1CdG/tQxafsgYOqCyLNHLUlKWA9eOIIKRxiFcmOwpoDY3d
+DvNDzCx6F4xRg7QgQnf3IRlpN+5Nxrm23oiSUnbjXDibFYogw3lNuMKW8Kvj6sFg
+3+0TarsRLvTyC1WNEMKZkaKTtzYVzOgHtY/LZHWYRbndFEbKF84rwNx/r4ACR0mW
+RQYd9Stk9MXO2TZimB2oXohJseZS1460MsAaYmz+028Qt/fZboTBXMWOIAv/ygl9
+kO/u1zw5u31UB/PRABHjx+7te3CUj2zOIYFGNP8LpMCFKjbTH2Rb7Wu8UsgFEGYD
+4drtXuWnftA5DJXAc6htUeyqvOSc2KtwHmErKOVXdBZAlxtUYcI71h8cEXNjX3Zc
+hpGAdmqYj0XEv634WNyefljKzr75akZZfvQ/79Q5hAt5gc2loBlVYDvkQzE9mPbA
+VOIqsmqrSjZCtHxnWzMb34aQ4xFo+xRkmF8hgEYjxPI20npE1/g=
+=vLAu
+-----END PGP SIGNATURE-----

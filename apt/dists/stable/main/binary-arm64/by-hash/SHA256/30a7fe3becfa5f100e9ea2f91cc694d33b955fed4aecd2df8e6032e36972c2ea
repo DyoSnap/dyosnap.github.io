@@ -1,0 +1,57 @@
+Package: dyosnap
+Architecture: arm64
+Version: 1.4.0-1
+Priority: optional
+Section: graphics
+Maintainer: Philipp Schuler <76153816+pschu13r@users.noreply.github.com>
+Installed-Size: 16794
+Depends: ffmpeg, libc6 (>= 2.39), libpipewire-0.3-0t64 (>= 0.3.1)
+Filename: pool/main/d/dyosnap/dyosnap_1.4.0-1_arm64.deb
+Size: 4414164
+MD5sum: 9bede0ce1b599267e5d629d4357f4b19
+SHA1: ad6c6184d1fdc9bd18da5956adbeebd0aa70aab7
+SHA256: fddff2696cdc32472c78c413428605cf3740d8119214abc6aa0bc34ee43bd262
+SHA512: 8e21305d6edd0662bf7c49230b0dc92c881693cfb418f9bacab7033043261f61e30b702dfdbf819948825050725fae368b8e9161e9aedd787beab6185f59d0d3
+Homepage: https://github.com/pschu13r/dyosnap
+Description: Screenshots and screen recordings, saved locally
+ A light screenshot and screen-recording app for Wayland desktops (GNOME, KDE
+ Plasma). It saves locally and copies every capture to the clipboard.
+
+Package: dyosnap
+Architecture: arm64
+Version: 1.5.0-1
+Priority: optional
+Section: graphics
+Maintainer: Philipp Schuler <76153816+pschu13r@users.noreply.github.com>
+Installed-Size: 16794
+Depends: ffmpeg, libc6 (>= 2.39), libpipewire-0.3-0t64 (>= 0.3.1)
+Filename: pool/main/d/dyosnap/dyosnap_1.5.0-1_arm64.deb
+Size: 4430388
+MD5sum: 5d0dd805d509b10416cd29e0f79d95f8
+SHA1: 9df5e78d7625edffccd7c135a78a502295e05681
+SHA256: 110570bd2d638146854125fea5261f5963afcafdc0c5be7e169364768a325ac5
+SHA512: b0561de45acc1fef6271dce7fc73ec8d97d54c0edfac4f75c96aede173311574b8ff67d4cfa9a3b0dac6f94a2b90a04984c5a5342c19bebf22a61e1883addccc
+Homepage: https://github.com/pschu13r/dyosnap
+Description: Screenshots and screen recordings, saved locally
+ A light screenshot and screen-recording app for Wayland desktops (GNOME, KDE
+ Plasma). It saves locally and copies every capture to the clipboard.
+
+Package: dyosnap
+Architecture: arm64
+Version: 1.5.1-1
+Priority: optional
+Section: graphics
+Maintainer: Philipp Schuler <76153816+pschu13r@users.noreply.github.com>
+Installed-Size: 17113
+Depends: ffmpeg, libc6 (>= 2.39), libpipewire-0.3-0t64 (>= 0.3.1)
+Filename: pool/main/d/dyosnap/dyosnap_1.5.1-1_arm64.deb
+Size: 4510936
+MD5sum: 0c7c4c9db9da79e4e61aa0ff482a3520
+SHA1: 266216b483341511fa5ff98d898a1e419646f4ae
+SHA256: 97102b36dc2170c3efee8fe41347235ec7e41ab1ff51efd83eec30cfa102a4c9
+SHA512: c80711fe4a4dc407b3836f03fcb0f2d4c87c503b550da59882ff6e33a831fb98abe88bfba87feb07dcbc08a21bf72ab586a7595b694fe8714f033ee3b6968add
+Homepage: https://github.com/pschu13r/dyosnap
+Description: Screenshots and screen recordings, saved locally
+ A light screenshot and screen-recording app for Wayland desktops (GNOME, KDE
+ Plasma). It saves locally and copies every capture to the clipboard.
+

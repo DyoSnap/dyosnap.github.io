@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>DyoSnap packages</title>
+<h1>DyoSnap packages</h1>
+<p>Signed apt and dnf repositories for <a href="https://github.com/pschu13r/dyosnap">DyoSnap</a>.
+Installing the .deb or .rpm from GitHub sets this up for you. To add it by hand:</p>
+<h2>Ubuntu, Debian</h2>
+<pre>sudo curl -fsSL https://dyosnap.github.io/dyosnap-archive-keyring.asc -o /usr/share/keyrings/dyosnap-archive-keyring.asc
+sudo curl -fsSL https://dyosnap.github.io/dyosnap.sources -o /etc/apt/sources.list.d/dyosnap.sources
+sudo apt update &amp;&amp; sudo apt install dyosnap</pre>
+<h2>Fedora</h2>
+<pre>sudo dnf config-manager addrepo --from-repofile=https://dyosnap.github.io/dyosnap.repo
+sudo dnf install dyosnap</pre>
